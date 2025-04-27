@@ -1,0 +1,121 @@
+[
+  {
+    "id": "m1",
+    "name": "Mix Grill",
+    "price": "435.00",
+    "description": "4 kebab, meat kofta, shish tawook and chicken kofta breast skewers served with salad, hummus, bread",
+    "image": "images/mix-grill.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "Kabab Meal",
+    "price": "315.00",
+    "description": "2 kebab skewers served with basmati rice, salad, hummus and bread",
+    "image": "images/kabab-meal.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Kofta Meal",
+    "price": "295.00",
+    "description": "2 meat kofta skewers seasoned with special spices served with basmati rice, salad, hummus and bread",
+    "image": "images/kofta-meal.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "1/2 Charcoal Grilled Chicken",
+    "price": "250.00",
+    "description": "Chicken seasoned charcoal grilled served with fries, rice, garlic dip and bread",
+    "image": "images/grilled-half-chicken.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "1/2 Roasted Chicken",
+    "price": "250.00",
+    "description": "Served with fries, garlic dip, pickles, bread",
+    "image": "images/half-grilled-chicken.jpeg"
+  },
+  {
+    "id": "m6",
+    "name": "Grilled Liver",
+    "price": "245.00",
+    "description": "Grilled seasoned liver pieces with special spices served with bread, onion, tomato, pepper and grilled muhammara",
+    "image": "images/liver.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Grilled Kidneys",
+    "price": "245.00",
+    "description": "Grilled kidney pieces served with bread, onion, tomato, pepper and grilled muhammara",
+    "image": "images/kidneys.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Sausage",
+    "price": "275.00",
+    "description": "rich grilled sausage pieces served with bread, onions, tomatoes, peppers and grilled roasted",
+    "image": "images/sausages.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "1/2 Smoked Thighs Casata Meal",
+    "price": "565.00",
+    "description": "Served with rice, garlic dip, pickles, daqous and bread",
+    "image": "images/chimney-casta-thighs.jpeg"
+  },
+  {
+    "id": "m10",
+    "name": "Smoked Shoulder with Raisins Rice Meal",
+    "price": "1740.00",
+    "description": "Raw weight 1100 grams, red sauce (daqoos), white sauce, honey and a bunch of bread",
+    "image": "images/smoked-lamb-shoulder.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "Spicy Broasted Chicken",
+    "price": "540.00",
+    "description": "Chicken pieces of spicy, crispy, golden fried chicken, served with garlic sauce, spicy garlic sauce, pickles and bread",
+    "image": "images/broasted-chicken.jpeg"
+  },
+  {
+    "id": "m12",
+    "name": "Broasted Breast Meal (2 Pieces)",
+    "price": "155.00",
+    "description": "Broasted breast 2 pieces crispy golden color served with potatoes basmati rice tomato sauce, pickles and bread",
+    "image": "images/broasted-breasts-meal.jpeg"
+  },
+  {
+    "id": "m13",
+    "name": "3 Drumsticks Meal",
+    "price": "175.00",
+    "description": "Crispy golden drumsticks pieces served with fries, basmati rice, garlic sauce, spicy garlic sauce, pickles and bread",
+    "image": "images/drumsticks-broasted meal.jpeg"
+  },
+  {
+    "id": "m14",
+    "name": "Chicken Shawerma Fattah",
+    "price": "220.00",
+    "description": "dish of rice, chicken, garlicky yogurt, crispy pita bread and toasted nuts",
+    "image": "images/shawerma-fatta-chicken.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "Meat Shawerma Fattah",
+    "price": "300.00",
+    "description": "dish of rice, meat, hummus, tahini, crispy pita bread and toasted nuts",
+    "image": "images/shawerma-fatta.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "Arabian Chicken Shawerma Meal",
+    "price": "205.00",
+    "description": "Golden shawerma slices with garlic sauce inside toasted saj bread, served with regular and spicy garlic dip, potatoes slices, coleslaw and pickles",
+    "image": "images/arabic-shawerma-meal-chicken.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "Arabian Meat Shawerma Meal",
+    "price": "260.00",
+    "description": "Beef shawerma slices with tahini, onion slices and parsley inside toasted saj bread, served with tahini, potato slices, coleslaw and pickles",
+    "image": "images/arabic-shawerma-meal.jpg"
+  }
+]
